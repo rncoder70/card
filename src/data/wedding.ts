@@ -99,8 +99,9 @@ export const wedding = {
   wedding: {
     title: 'The Wedding',
     date: '2026-12-28',
-    startTime: null,
-    timeLabel: 'Muhurtham · [AUSPICIOUS TIME, e.g. 10:30 – 11:15 AM]',
+    startTime: '11:00',
+    endTime: '11:30',
+    timeLabel: 'Muhurtham · 11:00 – 11:30 AM',
     venue: {
       name: 'Miami Convention Centre',
       address: 'Kozhikode–Kuttiyadi Road, Thalakkulathur, Andikode, Kerala 673317',
